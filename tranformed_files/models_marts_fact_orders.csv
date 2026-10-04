@@ -1,0 +1,7 @@
+order_id,order_date,customer_id,customer_name,country,region,product_id,product_name,category,quantity,amount,completed_amount,status
+5004,2026-09-02,103,Priya,India,ASIA,3,Keyboard,Electronics,1,2500.0,0.0,Cancelled
+5003,2026-09-02,101,Shruti,India,ASIA,4,Office Chair,Furniture,1,8000.0,8000.0,Completed
+5002,2026-09-01,102,Rahul,India,ASIA,2,Mouse,Electronics,2,2400.0,2400.0,Completed
+5001,2026-09-01,101,Shruti,India,ASIA,1,Laptop,Electronics,1,70000.0,70000.0,Completed
+5005,2026-09-03,104,John,United Kingdom,Europe,5,Desk,Furniture,1,12000.0,12000.0,Completed
+5006,2026-09-03,105,Sarah,United States,North America,1,Laptop,Electronics,1,70000.0,70000.0,Completed
