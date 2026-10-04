@@ -213,6 +213,7 @@ Google Sheets
       ↓
 BigQuery ecommerce_raw
 ```
+<img width="771" height="280" alt="image" src="https://github.com/user-attachments/assets/c0793410-32b5-423f-8266-d25de8b1e816" />
 
 ---
 
@@ -234,6 +235,7 @@ Example BigQuery query:
 SELECT *
 FROM `fivetranlearning02.ecommerce_raw.customers`;
 ```
+<img width="922" height="329" alt="image" src="https://github.com/user-attachments/assets/3d86e780-c731-401b-b4d4-33bd35ebb85e" />
 
 This confirmed that the source data had successfully reached BigQuery.
 
@@ -246,6 +248,8 @@ A separate BigQuery dataset was created for dbt transformations:
 ```text
 ecommerce_analytics
 ```
+<img width="760" height="284" alt="image" src="https://github.com/user-attachments/assets/888838f6-7990-4605-8f24-daa97aba958c" />
+
 
 The reason for creating a separate dataset is to keep raw data and transformed data separate.
 
@@ -329,6 +333,7 @@ models/
 └── staging/
     └── sources.yml
 ```
+<img width="944" height="433" alt="image" src="https://github.com/user-attachments/assets/f222b06c-4962-4f66-a758-f661a17287d2" />
 
 The source configuration tells dbt where the raw Fivetran tables are located.
 
