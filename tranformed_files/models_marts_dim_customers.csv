@@ -1,0 +1,6 @@
+customer_id,customer_name,email,city,country,signup_date,signup_year,signup_month,region,customer_tenure_months
+103,Priya,priya@gmail.com,Mumbai,India,2025-03-20,2025,3,ASIA,19
+102,Rahul,rahul@gmail.com,Bangalore,India,2025-02-15,2025,2,ASIA,20
+101,Shruti,shruti@gmail.com,Bhubaneswar,India,2025-01-10,2025,1,ASIA,21
+104,John,john@gmail.com,London,United Kingdom,2025-04-10,2025,4,Europe,18
+105,Sarah,sarah@gmail.com,New York,United States,2025-05-05,2025,5,North America,17
