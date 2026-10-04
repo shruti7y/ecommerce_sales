@@ -1,0 +1,6 @@
+product_id,product_name,category,price,price_category,category_group
+1,Laptop,Electronics,70000.0,Premium,Technology
+3,Keyboard,Electronics,2500.0,Budget,Technology
+2,Mouse,Electronics,1200.0,Budget,Technology
+4,Office Chair,Furniture,8000.0,Budget,Home & Office
+5,Desk,Furniture,12000.0,Mid-Range,Home & Office
