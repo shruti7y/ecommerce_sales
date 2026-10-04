@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: ecommerce_raw
+    database: fivetranlearning02
+    schema: ecommerce_raw
+
+    tables:
+      - name: customers
+      - name: products
+      - name: orders
